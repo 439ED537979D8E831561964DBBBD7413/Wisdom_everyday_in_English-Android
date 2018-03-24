@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name"> Wisdom Of The Day</string>
+
+    <string-array name="HKM_ALYOM">
+        <item>Promises mean everything, but after they are broken, sorry means nothing.</item>
+        <item>The longer the explanation, the bigger the lie.</item>
+        <item>Knowledge speaks, but wisdom listens.</item>
+        <item>Our character is what we do when we think no one is looking.</item>
+        <item>Speak when you are angry, and you will make the best speech you'll ever regret.</item>
+        <item>Appear weak when you are strong, and strong when you are weak.</item>
+        <item>My father used to say, "You would worry less about what people think if you knew how little they did".</item>
+        <item>If you find yourself in a hole, the first thing to do is stop digging.</item>
+        <item>You have to have a darkness for the dawn to come.</item>
+        <item>A word of encouragement during a failure is worth more than an hour of praise after success.</item>
+        <item>That which does not kill us only makes us stronger.</item>
+        <item>God gave us mouths that close and ears that don't-- that should tell us something</item>
+        <item>Never deprive someone of hope; it might be all they have.</item>
+        <item>Common sense is not so common.</item>
+    </string-array>
+
+</resources>
